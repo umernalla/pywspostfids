@@ -6,7 +6,7 @@ to a ADS Server with WebSocket enabled.
 
 It can be used to post defined fields + value to a specified service and RIC.
 
-Fields and intial values must be specified in **fields.json** file - located in the same working folder.
+Fields and intial values must be specified in ***fields.json*** file - located in the same working folder.   
 Example content of fields.json file:  
 *{  
 	"BID":45.55,  
