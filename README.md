@@ -54,5 +54,5 @@ Pressing the CTRL+C buttons terminates any example.
       - position = <local machine's hostname>
       - service = 'DIST_CACHE'
       - ric = 'TEST.RIC'
-    - run `post_fids.py` with overrides:
+    - run `post_fids.py` with overrides e.g. provide your own ads host, servicename and ric:
       - `python post_fids.py --hostname <hostname> -service <servicename> -ric <ric>`
