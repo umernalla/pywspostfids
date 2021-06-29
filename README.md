@@ -2,7 +2,7 @@
 ## Summary
 
 The purpose of this example is to show how to make an off-stream Post of a JSON-formatted market price instrument
-to a ADS Server with WebSocket enabled. 
+to an ADS Server with WebSocket enabled. 
 
 It can be used to post defined fields + value to a specified service and RIC.
 
