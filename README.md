@@ -27,7 +27,7 @@ NOTE: The example must be run with Python3.6 or greater.
 
 ## Command Line Usage
 
-```python market_price_post_fids.py [--host hostname ] [--port port] [--app_id appID] [--user user] [--service service] [--ric ric]```
+```python post_fids.py [--host hostname ] [--port port] [--app_id appID] [--user user] [--service service] [--ric ric]```
 
 e.g.:  
 python post_fids.py --host ads1 --port 15000 --app_id 256 --user umer --service DIST_CACHE --ric TEST.TST
