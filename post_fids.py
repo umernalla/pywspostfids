@@ -182,7 +182,7 @@ if __name__ == "__main__":
         elif opt in ("--position"):
             position = arg
         elif opt in ("--service"):
-            srevice = arg
+            service = arg
         elif opt in ("--ric"):
             ric = arg
 
